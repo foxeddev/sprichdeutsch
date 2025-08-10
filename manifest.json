@@ -1,0 +1,13 @@
+{
+  "name": "Sprich Deutsch",
+  "description": "Feuerfuchs-Erweiterung, um angelsächsisch aus einigen bekannten Netzseiten zu entfernen.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {},
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "sprichdeutsch@foxeddev.github.io"
+    },
+    "gecko_android": {}
+  }
+}
